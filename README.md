@@ -1,6 +1,7 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
-Aolia Ikhwanudin
+# Buku AI SMP Kelas 8 Semester 1 Level Up Coding! Bikin Game, Aplikasi, dan AI Sendiri!
+Jumlah Pertemuan: 14-16 (Dapat disesuaikan)
 Onno W. Purbo
+
 Institut Teknologi Tangerang Selatan (ITTS)
 2025
 
